@@ -13,6 +13,10 @@ This project provides an interactive Tableau dashboard that offers insights into
 
 The data for this dashboard is sourced from the [City of Chicago's open data portal](https://data.cityofchicago.org/), which contains historical crime data.
 
+## Dashboard Preview
+
+![Dashboard Overview](dashboard_overview.png 'Chicago Crime Dashboard Overview')
+
 ## How to Use the Dashboard
 
 1. Open the Tableau dashboard (link to Tableau Public or your hosted version).
