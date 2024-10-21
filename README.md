@@ -17,6 +17,10 @@ The data for this dashboard is sourced from the [City of Chicago's open data por
 
 ![Dashboard Overview](dashboard_overview.png 'Chicago Crime Dashboard Overview')
 
+## Insights
+
+![Insights Overview](insights.png 'Chicago Crime Dashboard Overview')
+
 ## How to Use the Dashboard
 
 1. Open the Tableau dashboard (link to Tableau Public or your hosted version).
